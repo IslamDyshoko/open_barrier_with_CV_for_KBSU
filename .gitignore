@@ -6,3 +6,6 @@
 *.png
 *.jpg
 *.jpeg
+
+#исключение для req
+!requirements.txt
