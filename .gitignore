@@ -9,3 +9,9 @@
 
 #исключение для req
 !requirements.txt
+
+# файлы данных
+*.json
+*.xml
+*.csv
+*.db
